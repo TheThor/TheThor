@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Here are some points to get you acquainted:
 
 - 🔭 I’m currently working on Symfony and Dotnet
-- 🌱 I’m currently and always learning!
+- 🌱 I’m currently and always learning! (Currently reading Rust in Action)
 - 💬 Ask me about anything
 - ⚡ Fun fact: If you get swallowed by a black hole, you’ll ride the ultimate cosmic rollercoaster, watching the entire past, present, and future of the universe unfold before your eyes. Or so scientits think 😄
 
